@@ -1,0 +1,61 @@
+{
+    "name": "Ongage",
+    "description": "The most advanced front end solution for email marketing. Increase deliverability, boost your SMTP, and much more. Visit us to learn more and a free trial.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1231-ongage.jpg",
+    "tags": [
+        "campaigns",
+        "email marketing",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/ongage\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Ongage",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1231-ongage.jpg",
+            "humanURL": "http:\/\/www.ongage.com\/resources\/api\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ongage-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.ongage.com\/resources\/api\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.ongage.com\/company\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.ongage.com\/company\/blog\/rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/ongage"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/ongage"
+        },
+        {
+            "type": "Email",
+            "url": "info@ongage.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/OngageConnect"
+        }
+    ]
+}
